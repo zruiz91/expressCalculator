@@ -1,0 +1,22 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "description": "calculator made with express",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zruiz91/expressCalculator.git"
+  },
+  "author": "Zach Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zruiz91/expressCalculator/issues"
+  },
+  "homepage": "https://github.com/zruiz91/expressCalculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
